@@ -1,2 +1,10 @@
 .env/
+.env_thumb/
 __pycache__/
+
+# mídia local de teste e dados recebidos (não versionar)
+videos/
+receptor_saude_kdeconnect/dados_recebidos/
+
+# scripts de terceiros baixados (não são código deste repositório)
+terceiros/
